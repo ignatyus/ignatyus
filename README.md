@@ -1,16 +1,17 @@
-### Hi there 👋
+### I'm İbrahim 👋
 
-<!--
-**ignatyus/ignatyus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A highly curious and determined developer, with a degree in Mathematics and professional experience as a research analyst. 
+Strong interest in blockchain and Web3 technologies since 2017. Through personal (3+ years) and professional (1 year) research, I have accumulated a deep understanding of L1s, L2s, bridges, AMMs, lending/borrowing protocols, automated strategies, and many dApps in Web3 space.
 
-Here are some ideas to get you started:
+#### 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ibrahimkarakoc/)
+#### 🔭 I’m currently working on [ETHAP](https://github.com/ignatyus/ethap)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Experience with:
+- Python, JavaScript, SQL, GraphQL
+- Web3 libraries (web3.js, web3.py, ethers.js)
+- Data processing libraries (Pandas, Numpy, SciPy)
+- Data visualization libraries (Matplotlib, Seaborn, Plotly)
+- Data sourcing libraries (Requests, BeautifulSoup)
+- Google Cloud services (GCP, BQ, Compute Engine)
+- Data engineering (Docker, MLFlow, FastAPI)
+- ML libraries (Sklearn, Tensorflow, XGBoost)
