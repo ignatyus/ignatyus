@@ -4,7 +4,7 @@ A highly curious and determined developer, with a degree in Mathematics and prof
 Strong interest in blockchain and Web3 technologies since 2017. Through personal (3+ years) and professional (1 year) research, I have accumulated a deep understanding of L1s, L2s, bridges, AMMs, lending/borrowing protocols, automated strategies, and many dApps in Web3 space.
 
 #### 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ibrahimkarakoc/)
-#### 🔭 I’m currently working on [ETHAP](https://github.com/ignatyus/ethap)
+#### 🔭 I’m currently working on [ethap-frontend](https://github.com/ignatyus/ethap-frontend)
 
 ⚡ Experience with:
 - Python, JavaScript, SQL, GraphQL
